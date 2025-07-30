@@ -1,3 +1,4 @@
 wmctrl 
 xdotool
 pynput
+matplotlib
